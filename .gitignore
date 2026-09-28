@@ -1,0 +1,5 @@
+# macOS folder metadata
+.DS_Store
+
+# Blender automatic backups
+*.blend1
